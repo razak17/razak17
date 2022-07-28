@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack software developer. I enjoy codiing in typescript and react. I also enjoy
+I am a full stack software developer. I enjoy writing backends in node and golang. I also enjoy
 writing automation scripts in python. I am currently learning rust.
 
 ### 🔧 Languages / Tools
@@ -14,6 +14,7 @@ writing automation scripts in python. I am currently learning rust.
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=B54009)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=B54009)
+![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=1B7D1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
 
 ### ⚙️  GitHub Analytics
