@@ -19,7 +19,7 @@ writing automation scripts in python. I am currently learning rust.
 ### ⚙️  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/edeneast">
+<a href="https://github.com/razak17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=8&theme=algolia"/>
 </a>
