@@ -1,4 +1,16 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Razak
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I am Razak
+
+<!-- <h1 align='center'>
+    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
+        alt='Waving hand animated gif'
+        height='30px'
+        width='30px' />
+  Hi There, I'm Razak
+  <br />
+  <img src='https://komarev.com/ghpvc/?username=razak17&color=green&style=for-the-badge'
+    alt='Profile Views' />
+</h1> -->
+
 
 I am a full stack software developer. I enjoy writing backends in node and golang. I also enjoy
 writing automation scripts in python. I am currently learning rust, you know, because its blazingly fast.
