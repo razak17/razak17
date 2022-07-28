@@ -1,7 +1,7 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Razak
 
 I am a full stack software developer. I enjoy writing backends in node and golang. I also enjoy
-writing automation scripts in python. I am currently learning rust.
+writing automation scripts in python. I am currently learning rust, you know, because its blazingly fast.
 
 ### 🔧 Languages / Tools
 
