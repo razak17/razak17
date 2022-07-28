@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a full stack software developer. I enjoy codiing in typescript and react. I also enjoy
-writing automation scripts in pythin. I am currently learning rust.
+writing automation scripts in python. I am currently learning rust.
 
 ### 🔧 Languages / Tools
 
