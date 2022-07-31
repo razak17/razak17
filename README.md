@@ -21,6 +21,7 @@ writing automation scripts in python. I am currently learning rust, you know, be
 ![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00589D)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=1993EF)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Javascript](https://shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F4DC1D)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
