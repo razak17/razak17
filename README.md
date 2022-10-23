@@ -13,7 +13,7 @@
 
 
 I am a full stack software developer. I enjoy writing backends in node and golang. I also enjoy
-writing automation scripts in python. I am currently learning rust, you know, because its blazingly fast.
+writing automation scripts in python.
 
 ### 🔧 Languages / Tools
 
