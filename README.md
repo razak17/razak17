@@ -30,12 +30,14 @@ writing automation scripts in Python. I am currently learning Rust.
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=1B7D1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
 
+<!--
 ### ⚙️  GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/razak17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=8&theme=algolia"/>
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=algolia" /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=algolia" />
 </a>
 </p>
+-->
