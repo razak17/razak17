@@ -30,7 +30,7 @@ writing automation scripts in Python. I am currently learning Rust.
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=1B7D1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
 
-<!--
+
 ### ⚙️  GitHub Analytics
 
 <p align="center">
@@ -40,4 +40,4 @@ writing automation scripts in Python. I am currently learning Rust.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=algolia" />
 </a>
 </p>
--->
+
