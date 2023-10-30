@@ -35,9 +35,9 @@ writing automation scripts in Python. I am currently learning Rust.
 
 <p align="center">
 <a href="https://github.com/razak17">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=8&theme=gotham"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&border_color=30363d&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&border_color=30363d&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&border_color=330363d&theme=gotham" />
 </a>
 </p>
 
