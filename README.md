@@ -1,7 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I am Razak
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi there, I am Razak
 
 <!-- <h1 align='center'>
-    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
+    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'
         alt='Waving hand animated gif'
         height='30px'
         width='30px' />
@@ -10,7 +10,6 @@
   <img src='https://komarev.com/ghpvc/?username=razak17&color=green&style=for-the-badge'
     alt='Profile Views' />
 </h1> -->
-
 
 I am a full stack software developer. I enjoy writing backends in Node and Golang. I also enjoy
 writing automation scripts in Python. I am currently learning Rust.
@@ -30,14 +29,21 @@ writing automation scripts in Python. I am currently learning Rust.
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=1B7D1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
 
-
-### ⚙️  GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/razak17">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&border_color=30363d&border_radius=1.5&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&border_color=30363d&border_radius=1.5&langs_count=8&theme=gotham"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&border_color=330363d&border_radius=1.5&theme=gotham" />
-</a>
+    <a href="https://github.com/razak17">
+        <img
+            height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&border_color=30363d&border_radius=1.5&theme=gotham&include_all_commits=true&count_private=true"
+        />
+        <img
+            height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&border_color=30363d&border_radius=1.5&langs_count=8&theme=gotham"
+        />
+        <img
+            src="https://streak-stats.demolab.com?user=razak17&theme=dark"
+            alt="GitHub Streak"
+        />
+    </a>
 </p>
-
