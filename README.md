@@ -41,9 +41,9 @@ writing automation scripts in Python. I am currently learning Rust.
             height="180em"
             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&border_color=30363d&border_radius=1.5&langs_count=8&theme=gotham"
         />
-        <img
+<!--         <img
             src="https://streak-stats.demolab.com?user=razak17&theme=dark"
             alt="GitHub Streak"
-        />
+        /> -->
     </a>
 </p>
