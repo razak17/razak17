@@ -16,36 +16,48 @@ writing automation scripts in Python. I am currently learning Rust.
 
 ### 🔧 Languages / Tools
 
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
-![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00589D)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=1993EF)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Javascript](https://shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F4DC1D)
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=B54009)
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=B54009)
-![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=1B7D1E)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat)
+
 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/razak17">
-        <img
-            height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&border_color=30363d&border_radius=1.5&theme=gotham&include_all_commits=true&count_private=true"
-        />
-        <img
-            height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razak17&layout=compact&border_color=30363d&border_radius=1.5&langs_count=8&theme=gotham"
-        />
-<!--         <img
-            src="https://streak-stats.demolab.com?user=razak17&theme=dark"
-            alt="GitHub Streak"
-        /> -->
-    </a>
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=razak17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&card_width=500"
+        alt="Razak Mo"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=8&theme=gotham&card_width=400"
+        alt="Razak Mo"
+    />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&" alt="Razak Mo" /></p>
+<p align="center">
+    <img 
+        height="180em" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=gotham&card_width=600"
+        alt="Razak Mo"
+    />
+</p>
