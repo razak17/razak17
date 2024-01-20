@@ -47,3 +47,5 @@ writing automation scripts in Python. I am currently learning Rust.
         /> -->
     </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&" alt="Razak Mo" /></p>
