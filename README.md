@@ -42,9 +42,14 @@ writing automation scripts in Python. I am currently learning Rust.
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-    <img
+<!--     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=razak17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&card_width=500"
+        alt="Razak Mo"
+    /> -->
+    <img
+        height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=razak17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&card_width=500"
         alt="Razak Mo"
     />
     <img
