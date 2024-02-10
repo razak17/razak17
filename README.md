@@ -34,7 +34,7 @@ writing automation scripts in Python. I am currently learning Rust.
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=flat)
+![Tmux](https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat)
 
