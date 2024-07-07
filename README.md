@@ -44,7 +44,7 @@ writing automation scripts in Python. I am currently learning Rust.
 <p align="center">
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=razak17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&card_width=500"
+        src="https://github-readme-stats.vercel.app/api?username=razak17&include_all_commits=true&show_icons=true&theme=gotham&border_color=2aa889&card_width=500&rank_icon=github&custom_title=GitHub%20Stats&show=prs_merged"
         alt="Razak Mo"
     />
 <!--     <img
@@ -54,7 +54,7 @@ writing automation scripts in Python. I am currently learning Rust.
     /> -->
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=8&theme=gotham&card_width=400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=razak17&layout=compact&langs_count=10&theme=gotham&border_color=2aa889&card_width=400&custom_title=Top%20Languages"
         alt="Razak Mo"
     />
 </p>
@@ -62,7 +62,7 @@ writing automation scripts in Python. I am currently learning Rust.
 <p align="center">
     <img 
         height="180em" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=gotham&card_width=600"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=razak17&theme=gotham&border=2aa889&stroke=2aa889&card_width=600"
         alt="Razak Mo"
     />
 </p>
