@@ -12,7 +12,11 @@
 </h1> -->
 
 I am a full stack software developer. I enjoy writing backends in Node and Golang. I also enjoy
-writing automation scripts in Python. I am currently learning Rust.
+writing automation scripts in Python. 
+
+<!--
+I am currently learning Rust.
+-->
 
 ### 🔧 Languages / Tools
 
