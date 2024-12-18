@@ -70,3 +70,5 @@ I am currently learning Rust.
         alt="Razak Mo"
     />
 </p>
+
+![Razak's GitHub activity](https://github-readme-activity-graph.vercel.app/graph/?username=razak17&&theme=gotham&border=2aa889&stroke=2aa889&custom_title=Contribution%20Graph)
