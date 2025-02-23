@@ -11,8 +11,7 @@
     alt='Profile Views' />
 </h1> -->
 
-I am a full stack software developer. I enjoy writing backends in Node and Golang. I also enjoy
-writing automation scripts in Python. 
+I am a full stack software developer.
 
 <!--
 I am currently learning Rust.
